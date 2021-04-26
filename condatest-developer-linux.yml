@@ -9,8 +9,8 @@ dependencies:
   - cmake=3.19.7
   - texlive-core=20180414
   - doxygen=1.9.1
-  - tbb=2021.2.0
-  - tbb-devel=2021.2.0
+  - tbb=2020.2.0
+  - tbb-devel=2020.2.0
   - boost-cpp=1.75.0
   - boost=1.75.0 # Include only boost-python and boost-numpy
   - poco=1.10.1
